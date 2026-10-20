@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 76 34" width="76" height="34" role="img" aria-label="MCP">
+<title>MCP</title>
+<style>.s{font-family:Georgia,'Iowan Old Style','Palatino Linotype','Book Antiqua','Noto Serif','DejaVu Serif',serif}.m{font-family:'Courier New',Courier,'Liberation Mono','Nimbus Mono PS','Noto Sans Mono','DejaVu Sans Mono',monospace;font-weight:700}</style>
+<rect x="0.6" y="0.6" width="74.8" height="32.8" rx="16.4" fill="#151A20" stroke="#ECEAE4" stroke-opacity="0.2" stroke-width="1.2"/>
+<circle cx="16" cy="17" r="3.5" fill="#B6A6FF"/>
+<text x="28" y="22" class="s" font-size="15" fill="#ECEAE4" textLength="32.7" lengthAdjust="spacing">MCP</text>
+</svg>

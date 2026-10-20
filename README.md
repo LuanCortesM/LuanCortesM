@@ -35,9 +35,23 @@
 
 ## Toolbox
 
-- **Android** — Kotlin · Jetpack Compose · Android Studio · Gradle · SQLite
-- **GIS and data** — QGIS · Python · Darwin Core · GBIF · Model Context Protocol
-- **Web** — JavaScript · Node.js · HTML · CSS
-- **Version control** — Git · GitHub
+<p>
+  <picture><img src="assets/tool-kotlin.svg" height="34" alt="Kotlin"></picture>
+  <picture><img src="assets/tool-jetpackcompose.svg" height="34" alt="Jetpack Compose"></picture>
+  <picture><img src="assets/tool-androidstudio.svg" height="34" alt="Android Studio"></picture>
+  <picture><img src="assets/tool-gradle.svg" height="34" alt="Gradle"></picture>
+  <picture><img src="assets/tool-sqlite.svg" height="34" alt="SQLite"></picture>
+  <picture><img src="assets/tool-qgis.svg" height="34" alt="QGIS"></picture>
+  <picture><img src="assets/tool-python.svg" height="34" alt="Python"></picture>
+  <picture><img src="assets/tool-darwincore.svg" height="34" alt="Darwin Core"></picture>
+  <picture><img src="assets/tool-gbif.svg" height="34" alt="GBIF"></picture>
+  <picture><img src="assets/tool-mcp.svg" height="34" alt="Model Context Protocol (MCP)"></picture>
+  <picture><img src="assets/tool-javascript.svg" height="34" alt="JavaScript"></picture>
+  <picture><img src="assets/tool-nodejs.svg" height="34" alt="Node.js"></picture>
+  <picture><img src="assets/tool-html.svg" height="34" alt="HTML"></picture>
+  <picture><img src="assets/tool-css.svg" height="34" alt="CSS"></picture>
+  <picture><img src="assets/tool-git.svg" height="34" alt="Git"></picture>
+  <picture><img src="assets/tool-github.svg" height="34" alt="GitHub"></picture>
+</p>
 
 <p align="center"><sub>Drawings by the author: the hiker and the outline of Pico do Itaguaré, Serra da Mantiqueira.</sub></p>
